@@ -13,5 +13,6 @@ via the ThingSpeak API.
 - If there is no signal the data is lost
 
 ## Diagram
-![image](https://github.com/RockyDesigne/beehive-sensor/assets/107836920/5c9a8c1c-c2e8-41d1-bb0b-75da9a78c5f5)
+![image](https://github.com/RockyDesigne/beehive-sensor/assets/107836920/5fa4eedb-801c-4d40-bbf9-446a5fb627e6)
+
 
