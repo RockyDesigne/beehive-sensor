@@ -60,7 +60,7 @@ void sendDataToThingSpeak(String temperature, String humidity) {
   String url = "https://api.thingspeak.com/update";
 
   // Data to be sent in the request
-  String data = "api_key=DO6M82KWFNDZKOOB&field1=" + temperature + "&field2=" + humidity;
+  String data = "api_key=APIKEY&field1=" + temperature + "&field2=" + humidity;
 
   // Construct the request
   String request = "POST /update HTTP/1.1\r\n";
